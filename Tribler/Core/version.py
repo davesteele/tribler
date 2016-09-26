@@ -1,3 +1,3 @@
-version_id = "6.5.2-GIT"
-build_date = "Mon Jan 01 00:00:01 1970"
-commit_id = "none"
+version_id = "6.6.0-exp1"
+build_date = "Tue Jul 26 19:02:29 2016"
+commit_id = "d2fea8175a6f6c885dac43b90f0fd0e28df360e"
