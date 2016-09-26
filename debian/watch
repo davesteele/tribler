@@ -1,6 +1,3 @@
-# Compulsory line, this is a version 3 file
 version=3
 
-# <Webpage URL> <string match>
-opts=dversionmangle=s/\+svn.*$// \
-http://www.tribler.org/trac/wiki/Download .*/tribler/archive/v([^-]*)\.zip
+https://github.com/Tribler/tribler/releases /download/.+/Tribler-v(.*)\.tar\.xz
